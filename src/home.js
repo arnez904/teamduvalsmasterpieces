@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className="App">
       <div className="header">
-        <div className="american">American</div>
+        <div className="american">American Airlines</div>
       </div>
       <div className="content">
         <UserInput />
