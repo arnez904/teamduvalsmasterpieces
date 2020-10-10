@@ -1,68 +1,71 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# APP - *AirDelivery App*
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+Description 
 
-### `npm start`
+**AirDelivery** American Airlines travelers have the issue of not having a centralized place for making requests to flight attendants, in effect, the travelers have to wait at an interval amount of time to be able to place a request. These travelers also never know what's on the flight's amenities, this will also help slow the transmission of diseases.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Goal
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+**AirDelivery** To have a centralized app for travelers to queue in requests for flight attendants, ultimately leading to a better traveling experience.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+App Evaluation 
 
-### `npm run build`
+•	Category: Travel Utility App
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+•	Mobile: This app would be primarily developed for mobile but would perhaps be just as viable on a computer. Functionality wouldn't be limited to mobile devices, however    mobile version could potentially have more features.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+•	Story: Users can send a request to the flight attendant.
+   Flight attendants will be able to see the incoming requests.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+•	Market: Any individual between the age of 14 and older could choose to use this app,
 
-### `npm run eject`
+•	Habit: This app could be used as often or unoften as the user wanted when they are flying to American Airlines
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Time spent: **24** hours spent in total
 
-## Learn More
+## User Stories
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The following **required** functionality is completed:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [ ]	User logs in their seat number
+- [ ]	User picks what their desired to request 
+- [ ]	User submit their request
+- [ ]	User get a thank you request
+- [ ]	User can purchase their food
+- [ ] User enter their card Information
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+The following **additional** features are implemented:
 
-### Analyzing the Bundle Size
+-  [ ]	
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Wireframe
 
-### Advanced Configuration
+Here's a Wireframe of implemented user stories:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+## License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
